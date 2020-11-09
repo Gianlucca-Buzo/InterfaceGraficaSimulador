@@ -1,0 +1,55 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.idea/*
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Others ###
+/target
+/target/*
+/target/classes
+/target/.class
+/.classpath
+/.project
+/.settings
+/.settings/*
+/.surefire
+/bin
+/.class
+/bin/*
+/classes
+/classes/*
+/.android
+/.android/*
+/.netbeans
+/.netbeans/*
+/AppData
+/AppData/*
+/Desktop
+/Desktop/*
+.metadata
+/.metadata
+/.metadata/*
+/Servers
+/Servers/*
